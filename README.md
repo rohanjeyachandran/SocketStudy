@@ -1,3 +1,4 @@
+ 
 # Ex.No:1a  			Study of Socket Programming
 
 ## Aim: 
@@ -89,10 +90,10 @@ s.send("acknowledgement recived from the server".encode())
 ## OUTPUT:
 
 ### CLIENT:
-![image](https://github.com/Safeeq-Fazil/SocketStudy/assets/118680361/eb1f3c70-2c88-450d-9724-6a132345cab8)
+![image](https://github.com/rohan/SocketStudy/assets/118680361/eb1f3c70-2c88-450d-9724-6a132345cab8)
 
 ### SERVER:
-![image](https://github.com/Safeeq-Fazil/SocketStudy/assets/118680361/bb1e1262-ac70-4888-9529-5f331422b857)
+![image](https://github.com/rohan/SocketStudy/assets/118680361/bb1e1262-ac70-4888-9529-5f331422b857)
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
